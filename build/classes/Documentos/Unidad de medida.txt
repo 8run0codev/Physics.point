@@ -1,0 +1,7 @@
+Una unidad de medida es una cantidad estandarizada de una determinada magnitud física, definida y adoptada por convención o por ley.Cualquier valor de una cantidad física puede expresarse como un múltiplo de la unidad de medida.
+
+Una unidad de medida toma su valor a partir de un patrón o de una composición de otras unidades definidas previamente. Las primeras unidades se conocen como unidades básicas o de base (fundamentales), mientras que las segundas se llaman unidades derivadas.
+
+Un conjunto de unidades de medida en el que ninguna magnitud tenga más de una unidad asociada es denominado sistema de unidades.
+
+Todas las unidades denotan cantidades escalares. En el caso de las magnitudes vectoriales, se interpreta que cada uno de los componentes está expresado en la unidad indicada.
