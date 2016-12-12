@@ -29,7 +29,7 @@ public class VentanaLongitud extends JFrame implements ActionListener {
 
         Fondo2 = new JLabel();
         Fondo2.setIcon(new ImageIcon("src/Imagenes/VentanaLongitud.jpg"));
-        Fondo2.setBounds(0, 0, 600, 800);
+        Fondo2.setBounds(0, 0, 600, 700);
         add(Fondo2);
         setVisible(true);
     }
